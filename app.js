@@ -11,7 +11,7 @@ const provider = new ethers.providers.JsonRpcProvider(
 );
 
 var MessageContract;
-var MessageContractAddress = "0x6F5f4c7D77819fd48F9962dfBad81D2329004fbF";
+var MessageContractAddress = "0xC6A438932BAAd35543FD8E2ecC712733Db0Db9B9";
 var MessageContractABI = ABI;
 var Signer;
 
